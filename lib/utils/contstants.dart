@@ -1,3 +1,1 @@
 const String apiKey = '6ed6aa77acf8e1db38e537a9dd44861f';
-const double lat = 135;
-const double long = 150;
